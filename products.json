@@ -11,11 +11,79 @@
 				"slug": "banana-cake-with-cream-cheese",
 				"createdAt": "2022-10-24T08:04:52.880Z",
 				"updatedAt": "2022-10-24T08:05:14.831Z",
-				"publishedAt": "2022-10-24T08:05:14.819Z"
+				"publishedAt": "2022-10-24T08:05:14.819Z",
+				"image": {
+					"data": {
+						"id": 1,
+						"attributes": {
+							"name": "banana-cake-with-cream-cheese-frosting.jpeg",
+							"alternativeText": "banana-cake-with-cream-cheese-frosting.jpeg",
+							"caption": "banana-cake-with-cream-cheese-frosting.jpeg",
+							"width": 3000,
+							"height": 2000,
+							"formats": {
+								"large": {
+									"ext": ".jpeg",
+									"url": "/uploads/large_banana_cake_with_cream_cheese_frosting_2894ce8f64.jpeg",
+									"hash": "large_banana_cake_with_cream_cheese_frosting_2894ce8f64",
+									"mime": "image/jpeg",
+									"name": "large_banana-cake-with-cream-cheese-frosting.jpeg",
+									"path": null,
+									"size": 78.45,
+									"width": 1000,
+									"height": 667
+								},
+								"small": {
+									"ext": ".jpeg",
+									"url": "/uploads/small_banana_cake_with_cream_cheese_frosting_2894ce8f64.jpeg",
+									"hash": "small_banana_cake_with_cream_cheese_frosting_2894ce8f64",
+									"mime": "image/jpeg",
+									"name": "small_banana-cake-with-cream-cheese-frosting.jpeg",
+									"path": null,
+									"size": 23.74,
+									"width": 500,
+									"height": 333
+								},
+								"medium": {
+									"ext": ".jpeg",
+									"url": "/uploads/medium_banana_cake_with_cream_cheese_frosting_2894ce8f64.jpeg",
+									"hash": "medium_banana_cake_with_cream_cheese_frosting_2894ce8f64",
+									"mime": "image/jpeg",
+									"name": "medium_banana-cake-with-cream-cheese-frosting.jpeg",
+									"path": null,
+									"size": 48.05,
+									"width": 750,
+									"height": 500
+								},
+								"thumbnail": {
+									"ext": ".jpeg",
+									"url": "/uploads/thumbnail_banana_cake_with_cream_cheese_frosting_2894ce8f64.jpeg",
+									"hash": "thumbnail_banana_cake_with_cream_cheese_frosting_2894ce8f64",
+									"mime": "image/jpeg",
+									"name": "thumbnail_banana-cake-with-cream-cheese-frosting.jpeg",
+									"path": null,
+									"size": 6.68,
+									"width": 234,
+									"height": 156
+								}
+							},
+							"hash": "banana_cake_with_cream_cheese_frosting_2894ce8f64",
+							"ext": ".jpeg",
+							"mime": "image/jpeg",
+							"size": 582.59,
+							"url": "/uploads/banana_cake_with_cream_cheese_frosting_2894ce8f64.jpeg",
+							"previewUrl": null,
+							"provider": "local",
+							"provider_metadata": null,
+							"createdAt": "2022-10-24T08:01:56.892Z",
+							"updatedAt": "2022-10-24T08:01:56.892Z"
+						}
+					}
+				}
 			}
 		},
 		{
-			"id": 2,
+			"id": 342,
 			"attributes": {
 				"name": "Chocolate coconut cake",
 				"content": "While coconut is an ingredient used twice in this chocolate coconut cake recipe, the flavor is subtle and is used to enhance the chocolate rather than overpower it. I use coconut two (with an optional third) ways in the cake. I use coconut cream to add moisture to the cake. When purchasing coconut cream be extra careful to not accidentally get coconut milk. They are both made of coconut, but the cream is thicker and has a higher fat content meaning less water, and more coconut and creaminess.",
@@ -25,7 +93,337 @@
 				"slug": "chocolate-coconut-cake",
 				"createdAt": "2022-10-24T09:39:58.346Z",
 				"updatedAt": "2022-10-24T09:40:00.231Z",
-				"publishedAt": "2022-10-24T09:40:00.228Z"
+				"publishedAt": "2022-10-24T09:40:00.228Z",
+				"image": {
+					"data": {
+						"id": 2,
+						"attributes": {
+							"name": "chocolate-coconut-cake.jpeg",
+							"alternativeText": "chocolate-coconut-cake.jpeg",
+							"caption": "chocolate-coconut-cake.jpeg",
+							"width": 643,
+							"height": 428,
+							"formats": {
+								"small": {
+									"ext": ".jpeg",
+									"url": "/uploads/small_chocolate_coconut_cake_24e5a6ff9a.jpeg",
+									"hash": "small_chocolate_coconut_cake_24e5a6ff9a",
+									"mime": "image/jpeg",
+									"name": "small_chocolate-coconut-cake.jpeg",
+									"path": null,
+									"size": 42.03,
+									"width": 500,
+									"height": 333
+								},
+								"thumbnail": {
+									"ext": ".jpeg",
+									"url": "/uploads/thumbnail_chocolate_coconut_cake_24e5a6ff9a.jpeg",
+									"hash": "thumbnail_chocolate_coconut_cake_24e5a6ff9a",
+									"mime": "image/jpeg",
+									"name": "thumbnail_chocolate-coconut-cake.jpeg",
+									"path": null,
+									"size": 11.1,
+									"width": 234,
+									"height": 156
+								}
+							},
+							"hash": "chocolate_coconut_cake_24e5a6ff9a",
+							"ext": ".jpeg",
+							"mime": "image/jpeg",
+							"size": 65.9,
+							"url": "/uploads/chocolate_coconut_cake_24e5a6ff9a.jpeg",
+							"previewUrl": null,
+							"provider": "local",
+							"provider_metadata": null,
+							"createdAt": "2022-10-24T09:36:21.548Z",
+							"updatedAt": "2022-10-24T09:36:21.548Z"
+						}
+					}
+				}
+			}
+		},
+		{
+			"id": 3341,
+			"attributes": {
+				"name": "Banana cake with cream cheese",
+				"content": "It was the moistest cake I’ve ever eaten. Stick-to-the-back of your fork moist. The perfect cream cheese frosting, both sweet and tangy, sinking into the top of the cake made it even moister. Sweet, but not overpowering. Mega banana flavor, certainly more banana flavor than any banana bread I’ve ever eaten. Very buttery and cakey from creaming the butter and sugars. Ridiculously rich, decadent.",
+				"meta_description": "Banana cake with cream cheese, you should try and you will love it.",
+				"meta_title": "Banana cake with cream cheese - The best cake in Ebakery",
+				"price": 399,
+				"slug": "banana-cake-with-cream-cheese",
+				"createdAt": "2022-10-24T08:04:52.880Z",
+				"updatedAt": "2022-10-24T08:05:14.831Z",
+				"publishedAt": "2022-10-24T08:05:14.819Z",
+				"image": {
+					"data": {
+						"id": 1,
+						"attributes": {
+							"name": "banana-cake-with-cream-cheese-frosting.jpeg",
+							"alternativeText": "banana-cake-with-cream-cheese-frosting.jpeg",
+							"caption": "banana-cake-with-cream-cheese-frosting.jpeg",
+							"width": 3000,
+							"height": 2000,
+							"formats": {
+								"large": {
+									"ext": ".jpeg",
+									"url": "/uploads/large_banana_cake_with_cream_cheese_frosting_2894ce8f64.jpeg",
+									"hash": "large_banana_cake_with_cream_cheese_frosting_2894ce8f64",
+									"mime": "image/jpeg",
+									"name": "large_banana-cake-with-cream-cheese-frosting.jpeg",
+									"path": null,
+									"size": 78.45,
+									"width": 1000,
+									"height": 667
+								},
+								"small": {
+									"ext": ".jpeg",
+									"url": "/uploads/small_banana_cake_with_cream_cheese_frosting_2894ce8f64.jpeg",
+									"hash": "small_banana_cake_with_cream_cheese_frosting_2894ce8f64",
+									"mime": "image/jpeg",
+									"name": "small_banana-cake-with-cream-cheese-frosting.jpeg",
+									"path": null,
+									"size": 23.74,
+									"width": 500,
+									"height": 333
+								},
+								"medium": {
+									"ext": ".jpeg",
+									"url": "/uploads/medium_banana_cake_with_cream_cheese_frosting_2894ce8f64.jpeg",
+									"hash": "medium_banana_cake_with_cream_cheese_frosting_2894ce8f64",
+									"mime": "image/jpeg",
+									"name": "medium_banana-cake-with-cream-cheese-frosting.jpeg",
+									"path": null,
+									"size": 48.05,
+									"width": 750,
+									"height": 500
+								},
+								"thumbnail": {
+									"ext": ".jpeg",
+									"url": "/uploads/thumbnail_banana_cake_with_cream_cheese_frosting_2894ce8f64.jpeg",
+									"hash": "thumbnail_banana_cake_with_cream_cheese_frosting_2894ce8f64",
+									"mime": "image/jpeg",
+									"name": "thumbnail_banana-cake-with-cream-cheese-frosting.jpeg",
+									"path": null,
+									"size": 6.68,
+									"width": 234,
+									"height": 156
+								}
+							},
+							"hash": "banana_cake_with_cream_cheese_frosting_2894ce8f64",
+							"ext": ".jpeg",
+							"mime": "image/jpeg",
+							"size": 582.59,
+							"url": "/uploads/banana_cake_with_cream_cheese_frosting_2894ce8f64.jpeg",
+							"previewUrl": null,
+							"provider": "local",
+							"provider_metadata": null,
+							"createdAt": "2022-10-24T08:01:56.892Z",
+							"updatedAt": "2022-10-24T08:01:56.892Z"
+						}
+					}
+				}
+			}
+		},
+		{
+			"id": 342445,
+			"attributes": {
+				"name": "Chocolate coconut cake",
+				"content": "While coconut is an ingredient used twice in this chocolate coconut cake recipe, the flavor is subtle and is used to enhance the chocolate rather than overpower it. I use coconut two (with an optional third) ways in the cake. I use coconut cream to add moisture to the cake. When purchasing coconut cream be extra careful to not accidentally get coconut milk. They are both made of coconut, but the cream is thicker and has a higher fat content meaning less water, and more coconut and creaminess.",
+				"meta_description": "Chocolate coconut cake, this is the most loveable cake.",
+				"meta_title": "Chocolate coconut cake - Cake Store",
+				"price": 499,
+				"slug": "chocolate-coconut-cake",
+				"createdAt": "2022-10-24T09:39:58.346Z",
+				"updatedAt": "2022-10-24T09:40:00.231Z",
+				"publishedAt": "2022-10-24T09:40:00.228Z",
+				"image": {
+					"data": {
+						"id": 2,
+						"attributes": {
+							"name": "chocolate-coconut-cake.jpeg",
+							"alternativeText": "chocolate-coconut-cake.jpeg",
+							"caption": "chocolate-coconut-cake.jpeg",
+							"width": 643,
+							"height": 428,
+							"formats": {
+								"small": {
+									"ext": ".jpeg",
+									"url": "/uploads/small_chocolate_coconut_cake_24e5a6ff9a.jpeg",
+									"hash": "small_chocolate_coconut_cake_24e5a6ff9a",
+									"mime": "image/jpeg",
+									"name": "small_chocolate-coconut-cake.jpeg",
+									"path": null,
+									"size": 42.03,
+									"width": 500,
+									"height": 333
+								},
+								"thumbnail": {
+									"ext": ".jpeg",
+									"url": "/uploads/thumbnail_chocolate_coconut_cake_24e5a6ff9a.jpeg",
+									"hash": "thumbnail_chocolate_coconut_cake_24e5a6ff9a",
+									"mime": "image/jpeg",
+									"name": "thumbnail_chocolate-coconut-cake.jpeg",
+									"path": null,
+									"size": 11.1,
+									"width": 234,
+									"height": 156
+								}
+							},
+							"hash": "chocolate_coconut_cake_24e5a6ff9a",
+							"ext": ".jpeg",
+							"mime": "image/jpeg",
+							"size": 65.9,
+							"url": "/uploads/chocolate_coconut_cake_24e5a6ff9a.jpeg",
+							"previewUrl": null,
+							"provider": "local",
+							"provider_metadata": null,
+							"createdAt": "2022-10-24T09:36:21.548Z",
+							"updatedAt": "2022-10-24T09:36:21.548Z"
+						}
+					}
+				}
+			}
+		},
+		{
+			"id": 14545,
+			"attributes": {
+				"name": "Banana cake with cream cheese",
+				"content": "It was the moistest cake I’ve ever eaten. Stick-to-the-back of your fork moist. The perfect cream cheese frosting, both sweet and tangy, sinking into the top of the cake made it even moister. Sweet, but not overpowering. Mega banana flavor, certainly more banana flavor than any banana bread I’ve ever eaten. Very buttery and cakey from creaming the butter and sugars. Ridiculously rich, decadent.",
+				"meta_description": "Banana cake with cream cheese, you should try and you will love it.",
+				"meta_title": "Banana cake with cream cheese - The best cake in Ebakery",
+				"price": 399,
+				"slug": "banana-cake-with-cream-cheese",
+				"createdAt": "2022-10-24T08:04:52.880Z",
+				"updatedAt": "2022-10-24T08:05:14.831Z",
+				"publishedAt": "2022-10-24T08:05:14.819Z",
+				"image": {
+					"data": {
+						"id": 1,
+						"attributes": {
+							"name": "banana-cake-with-cream-cheese-frosting.jpeg",
+							"alternativeText": "banana-cake-with-cream-cheese-frosting.jpeg",
+							"caption": "banana-cake-with-cream-cheese-frosting.jpeg",
+							"width": 3000,
+							"height": 2000,
+							"formats": {
+								"large": {
+									"ext": ".jpeg",
+									"url": "/uploads/large_banana_cake_with_cream_cheese_frosting_2894ce8f64.jpeg",
+									"hash": "large_banana_cake_with_cream_cheese_frosting_2894ce8f64",
+									"mime": "image/jpeg",
+									"name": "large_banana-cake-with-cream-cheese-frosting.jpeg",
+									"path": null,
+									"size": 78.45,
+									"width": 1000,
+									"height": 667
+								},
+								"small": {
+									"ext": ".jpeg",
+									"url": "/uploads/small_banana_cake_with_cream_cheese_frosting_2894ce8f64.jpeg",
+									"hash": "small_banana_cake_with_cream_cheese_frosting_2894ce8f64",
+									"mime": "image/jpeg",
+									"name": "small_banana-cake-with-cream-cheese-frosting.jpeg",
+									"path": null,
+									"size": 23.74,
+									"width": 500,
+									"height": 333
+								},
+								"medium": {
+									"ext": ".jpeg",
+									"url": "/uploads/medium_banana_cake_with_cream_cheese_frosting_2894ce8f64.jpeg",
+									"hash": "medium_banana_cake_with_cream_cheese_frosting_2894ce8f64",
+									"mime": "image/jpeg",
+									"name": "medium_banana-cake-with-cream-cheese-frosting.jpeg",
+									"path": null,
+									"size": 48.05,
+									"width": 750,
+									"height": 500
+								},
+								"thumbnail": {
+									"ext": ".jpeg",
+									"url": "/uploads/thumbnail_banana_cake_with_cream_cheese_frosting_2894ce8f64.jpeg",
+									"hash": "thumbnail_banana_cake_with_cream_cheese_frosting_2894ce8f64",
+									"mime": "image/jpeg",
+									"name": "thumbnail_banana-cake-with-cream-cheese-frosting.jpeg",
+									"path": null,
+									"size": 6.68,
+									"width": 234,
+									"height": 156
+								}
+							},
+							"hash": "banana_cake_with_cream_cheese_frosting_2894ce8f64",
+							"ext": ".jpeg",
+							"mime": "image/jpeg",
+							"size": 582.59,
+							"url": "/uploads/banana_cake_with_cream_cheese_frosting_2894ce8f64.jpeg",
+							"previewUrl": null,
+							"provider": "local",
+							"provider_metadata": null,
+							"createdAt": "2022-10-24T08:01:56.892Z",
+							"updatedAt": "2022-10-24T08:01:56.892Z"
+						}
+					}
+				}
+			}
+		},
+		{
+			"id": 24356364,
+			"attributes": {
+				"name": "Chocolate coconut cake",
+				"content": "While coconut is an ingredient used twice in this chocolate coconut cake recipe, the flavor is subtle and is used to enhance the chocolate rather than overpower it. I use coconut two (with an optional third) ways in the cake. I use coconut cream to add moisture to the cake. When purchasing coconut cream be extra careful to not accidentally get coconut milk. They are both made of coconut, but the cream is thicker and has a higher fat content meaning less water, and more coconut and creaminess.",
+				"meta_description": "Chocolate coconut cake, this is the most loveable cake.",
+				"meta_title": "Chocolate coconut cake - Cake Store",
+				"price": 499,
+				"slug": "chocolate-coconut-cake",
+				"createdAt": "2022-10-24T09:39:58.346Z",
+				"updatedAt": "2022-10-24T09:40:00.231Z",
+				"publishedAt": "2022-10-24T09:40:00.228Z",
+				"image": {
+					"data": {
+						"id": 2,
+						"attributes": {
+							"name": "chocolate-coconut-cake.jpeg",
+							"alternativeText": "chocolate-coconut-cake.jpeg",
+							"caption": "chocolate-coconut-cake.jpeg",
+							"width": 643,
+							"height": 428,
+							"formats": {
+								"small": {
+									"ext": ".jpeg",
+									"url": "/uploads/small_chocolate_coconut_cake_24e5a6ff9a.jpeg",
+									"hash": "small_chocolate_coconut_cake_24e5a6ff9a",
+									"mime": "image/jpeg",
+									"name": "small_chocolate-coconut-cake.jpeg",
+									"path": null,
+									"size": 42.03,
+									"width": 500,
+									"height": 333
+								},
+								"thumbnail": {
+									"ext": ".jpeg",
+									"url": "/uploads/thumbnail_chocolate_coconut_cake_24e5a6ff9a.jpeg",
+									"hash": "thumbnail_chocolate_coconut_cake_24e5a6ff9a",
+									"mime": "image/jpeg",
+									"name": "thumbnail_chocolate-coconut-cake.jpeg",
+									"path": null,
+									"size": 11.1,
+									"width": 234,
+									"height": 156
+								}
+							},
+							"hash": "chocolate_coconut_cake_24e5a6ff9a",
+							"ext": ".jpeg",
+							"mime": "image/jpeg",
+							"size": 65.9,
+							"url": "/uploads/chocolate_coconut_cake_24e5a6ff9a.jpeg",
+							"previewUrl": null,
+							"provider": "local",
+							"provider_metadata": null,
+							"createdAt": "2022-10-24T09:36:21.548Z",
+							"updatedAt": "2022-10-24T09:36:21.548Z"
+						}
+					}
+				}
 			}
 		}
 	],
