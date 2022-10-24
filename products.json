@@ -1,0 +1,40 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"attributes": {
+				"name": "Banana cake with cream cheese",
+				"content": "It was the moistest cake I’ve ever eaten. Stick-to-the-back of your fork moist. The perfect cream cheese frosting, both sweet and tangy, sinking into the top of the cake made it even moister. Sweet, but not overpowering. Mega banana flavor, certainly more banana flavor than any banana bread I’ve ever eaten. Very buttery and cakey from creaming the butter and sugars. Ridiculously rich, decadent.",
+				"meta_description": "Banana cake with cream cheese, you should try and you will love it.",
+				"meta_title": "Banana cake with cream cheese - The best cake in Ebakery",
+				"price": 399,
+				"slug": "banana-cake-with-cream-cheese",
+				"createdAt": "2022-10-24T08:04:52.880Z",
+				"updatedAt": "2022-10-24T08:05:14.831Z",
+				"publishedAt": "2022-10-24T08:05:14.819Z"
+			}
+		},
+		{
+			"id": 2,
+			"attributes": {
+				"name": "Chocolate coconut cake",
+				"content": "While coconut is an ingredient used twice in this chocolate coconut cake recipe, the flavor is subtle and is used to enhance the chocolate rather than overpower it. I use coconut two (with an optional third) ways in the cake. I use coconut cream to add moisture to the cake. When purchasing coconut cream be extra careful to not accidentally get coconut milk. They are both made of coconut, but the cream is thicker and has a higher fat content meaning less water, and more coconut and creaminess.",
+				"meta_description": "Chocolate coconut cake, this is the most loveable cake.",
+				"meta_title": "Chocolate coconut cake - Cake Store",
+				"price": 499,
+				"slug": "chocolate-coconut-cake",
+				"createdAt": "2022-10-24T09:39:58.346Z",
+				"updatedAt": "2022-10-24T09:40:00.231Z",
+				"publishedAt": "2022-10-24T09:40:00.228Z"
+			}
+		}
+	],
+	"meta": {
+		"pagination": {
+			"page": 1,
+			"pageSize": 25,
+			"pageCount": 1,
+			"total": 2
+		}
+	}
+}
